@@ -1,6 +1,7 @@
 {
   "scripts": {
     "dev": "next",
+    "lint": "next lint",
     "build": "next build",
     "start": "next start"
   },
