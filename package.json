@@ -7,6 +7,7 @@
   "name": "src",
   "dependencies": {
     "next": "^12.1.6",
+    "node": "^17.7.2",
     "react": "^18.1.0",
     "react-dom": "^18.1.0"
   },
